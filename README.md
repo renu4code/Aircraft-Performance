@@ -1,6 +1,6 @@
 # ✈️ Aircraft Performance Analysis
 
-This Python script performs basic calculations to analyze the performance of an aircraft. It helps you determine important flight parameters like range, endurance, weight, lift, drag, acceleration, and more based on the input data.
+This Python script performs basic calculations to analyze the performance of an aircraft. It helps you determine important flight parameters like range, endurance, weight, lift, drag, acceleration.
 
 ---
 
@@ -21,7 +21,7 @@ The script calculates the following:
 
 📁 All results are saved into a file named:
 
----
+aircraft_performance_analysis.txt
 
 ## 📥 Input Data
 
@@ -51,4 +51,5 @@ time = 10                         # seconds
 
 
                                                 ----- Happy Coding -----
+
 
